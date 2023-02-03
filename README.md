@@ -12,20 +12,17 @@ Which features lead to higher item sales in grocery stores?
 The data contains approximately 8,500 records of grocery stores or supermarkets. It includes features such as their average item sales, item weight, store type, and other descriptive variables. 
 
 
-## Methods
-- There were no duplicates in the data
-- there were errors in categories. 
-
 ## Results
-
 #### Heatmap of correlated features
 ![Heatmap](https://user-images.githubusercontent.com/49537432/216637955-45dd7dc7-fcb9-4ba9-ae85-3232966c9f17.png)
 
-There is a strong correlation between 
+There is a mild correlation between Item MRP and price. 
 
 #### Boxplot of Average Outlet Sales grouped by Outlet Size
 
 ![Boxplor](https://user-images.githubusercontent.com/49537432/216632493-5cb60616-3b6f-4cda-a619-32b4b8641d96.png)
+
+There is a large variation item sales at the stores with high or larger stores selling more. 
 
 ## Regression Tree Model 
 
