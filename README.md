@@ -1,15 +1,15 @@
 # Project One
-## Using different regression models to predict 
+## Using different regression models to predict item sales at grocery stores 
 
 **Joseph Cobbs**: 
 
-### Business problem:
+### Question:
 
-Here is where you state the business problem you were trying to solve
+Which features lead to higher item sales in grocery stores?
 
 
 ### Data:
-Data can include source and high-level description (e.g. # obs)
+The data contains approximately 8,500 records of grocery stores or supermarkets. It includes features such as their average item sales, item weight, store type, and other descriptive variables. 
 
 
 ## Methods
@@ -20,6 +20,8 @@ Data can include source and high-level description (e.g. # obs)
 
 #### Heatmap of correlated features
 ![Heatmap](https://user-images.githubusercontent.com/49537432/216462392-5dd0b02e-cef4-4528-b323-90b2d88eb4c6.png)
+
+There is a strong correlation between 
 
 #### Boxplot of Average Outlet Sales grouped by Outlet Size
 
