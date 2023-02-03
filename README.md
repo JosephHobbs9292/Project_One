@@ -19,7 +19,7 @@ The data contains approximately 8,500 records of grocery stores or supermarkets.
 ## Results
 
 #### Heatmap of correlated features
-![Heatmap](https://user-images.githubusercontent.com/49537432/216462392-5dd0b02e-cef4-4528-b323-90b2d88eb4c6.png)
+![Heatmap](https://user-images.githubusercontent.com/49537432/216637955-45dd7dc7-fcb9-4ba9-ae85-3232966c9f17.png)
 
 There is a strong correlation between 
 
