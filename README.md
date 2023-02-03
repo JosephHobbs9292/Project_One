@@ -18,13 +18,12 @@ Data can include source and high-level description (e.g. # obs)
 
 ## Results
 
-### Here are examples of how to embed images from your sub-folder
-
-
 #### Heatmap of correlated features
 ![Heatmap](https://user-images.githubusercontent.com/49537432/216462392-5dd0b02e-cef4-4528-b323-90b2d88eb4c6.png)
 
-#### Visual 2 Title
+#### Boxplot of Average Outlet Sales grouped by Outlet Size
+
+![Boxplor](https://user-images.githubusercontent.com/49537432/216632493-5cb60616-3b6f-4cda-a619-32b4b8641d96.png)
 
 ## Regression Tree Model 
 
